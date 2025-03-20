@@ -1,6 +1,15 @@
 <h2 align="center">Hi 👋! My name is Ranjit Suryawanshi</h2>
 
-###
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Programmer..&hearts;++;Self-taught+Full-Stack+Developer,;Computer+Science+Student,;Still+Newbie+|+I+Keep+Learning+New+Stuff,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
+
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="29" alt="appwrite logo"  />
@@ -91,11 +100,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjit95s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/ranjit95s/ranjit95s/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
   <a href="ranjitsuryawanshi952@gmail.com" target="_blank">
