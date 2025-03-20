@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ranjit Suryawanshi</h2>
+<div style="width:100%; display:flex; align-items:center; justify-content:center;"><h1 align="center">Hi , I'm Ranjit Suryawanshi <img src="https://github.com/ranjit95s/Twitter-r95s/assets/74762032/a7cd2180-ba4f-454d-8868-8cfb1150ff15" width="55"></h1> </div>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -90,17 +90,20 @@
 </div>
 
 ###
+<br clear="both">
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/d3/b0/4e/d3b04eab1e692340264cfc7ca11c8a7d.gif"  />
+<div align="center">
+<img align="center" width="300" height="200" src="https://i.pinimg.com/originals/d3/b0/4e/d3b04eab1e692340264cfc7ca11c8a7d.gif"  />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ranjit95s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjit95s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+<br>
 <div align="left">
   <a href="ranjitsuryawanshi952@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
